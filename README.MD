@@ -1,4 +1,4 @@
-# 🐶 Bonk.fun Multi-Wallet Bundle Trading Bot
+# Bonk.fun Multi-Wallet Bundle Trading Bot
 
 A fast and reliable Solana bundle trading bot for **bonkfun** and **bonk.fun**-style token launches. This bot uses **Jito bundles** to create tokens and execute **multi-wallet buys in a single atomic block**. Built with **Raydium SDK v2**, it's designed for seamless one-block execution and fast inclusion.
 
@@ -23,9 +23,9 @@ A fast and reliable Solana bundle trading bot for **bonkfun** and **bonk.fun**-s
 
 ## 🛠 Tech Stack
 
-- [Solana Web3.js]
-- [Raydium SDK v2]
-- [Jito-Solana]
+- Solana Web3.js
+- Raydium SDK v2
+- Jito-Solana
 - Custom bundler and transaction coordinator
 
 ---
