@@ -23,9 +23,9 @@ A fast and reliable Solana bundle trading bot for **bonkfun** and **bonk.fun**-s
 
 ## 🛠 Tech Stack
 
-- [Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)
-- [Raydium SDK v2](https://github.com/raydium-io/raydium-sdk)
-- [Jito-Solana](https://jito.network/)
+- [Solana Web3.js]
+- [Raydium SDK v2]
+- [Jito-Solana]
 - Custom bundler and transaction coordinator
 
 ---
